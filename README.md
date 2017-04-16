@@ -1,6 +1,6 @@
 # README #
 
-##JAVA APPLICATION TO PARSE CSV FILE AND INSERT DATA INTO MYSQL
+## JAVA APPLICATION TO PARSE CSV FILE AND INSERT DATA INTO MYSQL ##
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
