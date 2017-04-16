@@ -1,0 +1,3 @@
+[main] INFO  org.apache.maven.ms3interview.LogFile  - No. of records received:6002
+[main] INFO  org.apache.maven.ms3interview.LogFile  - No. of records successful:5996
+[main] INFO  org.apache.maven.ms3interview.LogFile  - No. of records failed:6
